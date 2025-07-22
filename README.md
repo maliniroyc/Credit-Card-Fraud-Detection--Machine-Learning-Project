@@ -64,15 +64,21 @@ To build a robust classification model that accurately detects fraudulent transa
 
 ---
 
-## 📁 Folder Structure
+## 📦 Files in This Repository
 
-📦CreditCard-Fraud-Detection
-┣ 📜credit_card_MachineLearning.ipynb
-┣ 📜README.md
+| File Name              | Description                              |
+| ---------------------- | ---------------------------------------- |
+| `creditcard.csv`       | Original dataset from Kaggle             |
+| `CC_Project.sql`  | Original Dataset import into Postgresql   |
+| `credit_card_MachineLearning.ipynb`   | Exploratory data analysis in Jupyter     |
+| `README.md`            | GitHub project documentation (this file) |
 
 ## 🚀 Next Steps
 
 - Try XGBoost + Optuna
 - Add Stratified K-Fold CV
 - Deploy the model via Streamlit or Flask
+
+## Author
+Malini Roy Choudhury - Data Analyst | Freelancer
 
