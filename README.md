@@ -75,7 +75,7 @@ To build a robust classification model that accurately detects fraudulent transa
 
 ## 🚀 Next Steps
 
-- Try XGBoost + Optuna
+- Explore other ML model and its comparision 
 - Add Stratified K-Fold CV
 - Deploy the model via Streamlit or Flask
 
